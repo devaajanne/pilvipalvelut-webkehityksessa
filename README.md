@@ -1,2 +1,2 @@
-# pilvipalvelut_webkehityksessa
-Pilvipalvelut web-kehityksessä -kurssin tehtävärepositorio
+# Pilvipalvelut web-kehityksessa
+Pilvipalvelut web-kehityksessä -kurssin tehtävärepositorio.
