@@ -1,6 +1,6 @@
 title: Pilvipalvelut web-kehityksessä -kurssin sivusto
 description: Tervetuloa GitHub-pages -sivustolleni!
-theme: jekyll-theme-minima
+theme: jekyll-theme-cayman
 
 header_pages:
   - index.md
