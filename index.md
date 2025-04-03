@@ -1,4 +1,4 @@
-Tämä GitHug Pages -sivusto on tehty Pilvipalvelut web-kehityksessä -kurssilla.
+Tämä GitHub Pages -sivusto on tehty Pilvipalvelut web-kehityksessä -kurssilla.
 
 Täältä löydät kurssin tehtäväpalautukset:
 - [Viikko 1](vko1.html)
