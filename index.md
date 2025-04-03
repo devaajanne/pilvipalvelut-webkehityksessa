@@ -1,5 +1,4 @@
-## Tervetuloa GitHub-pages -sivustolleni!
-### Sivusto on tehty Pilvipalvelut web-kehityksessä -kurssilla
+### Sivusto on tehty Pilvipalvelut web-kehityksessä -kurssilla.
 
 Täältä löydät kurssin tehtäväpalautukset:
 - [Viikko 1](vko1.html)
