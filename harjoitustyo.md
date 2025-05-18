@@ -2,9 +2,9 @@
 
 ## Yleisesti
 
-My Mocktail Cabinet on sivusto, jonka kautta käyttäjät voivat etsiä uusia mocktaileja sekä tallentaa niitä omaan mocktailkaappiinsa.
+My Mocktail Cabinet on sivusto, jonka kautta käyttäjät voivat etsiä uusia mocktaileja sekä tallentaa niitä omaan mocktailkaappiinsa. My Mocktail Cabinet on julkaistu täällä: [https://devaajanne.github.io/my-mocktail-cabinet/#/](https://devaajanne.github.io/my-mocktail-cabinet/#/)
 
-Käyttäjän autentikoinnissa on käytetty Firebasea. Käyttäjän oma mocktail-kaappi tallennetaan Firestore databaseen. Sivusto käyttää mocktail-reseptien hauessa [The Cocktail DB:n APIa](https://www.thecocktaildb.com/api.php).
+Sivusto on rakennettu pääasiassa TypeScriptillä ja Reactilla. Käyttäjän autentikoinnissa on käytetty Firebasea. Käyttäjän oma mocktail-kaappi tallennetaan Firestore databaseen. Sivusto käyttää mocktail-reseptien hauessa [The Cocktail DB:n APIa](https://www.thecocktaildb.com/api.php).
 
 Sivusto käyttää yhteinäistä ulkoasua kaikilla sivuillaan. Lisäksi sivuston saatavuutta on parannettu lisäämällä elementteihin ja komponentteihin aria-attribuutteja.
 
